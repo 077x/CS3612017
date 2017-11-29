@@ -1,0 +1,12 @@
+void main () {
+int n1, n2, min; 
+n1 = 4;
+n2 = 7;
+	if (n1 > n2) {
+	min = n2; }
+	else {
+	min = n1; 
+	
+	} 
+	
+}

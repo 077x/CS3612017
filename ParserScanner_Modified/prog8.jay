@@ -1,0 +1,36 @@
+//TEST FOR ALL
+  
+\t
+\r
+\n
+\f
+\r\n
+/\
+%2
+Identifier
+Keyword
+Literal
+Separator
+Operator
+Letter
+a b c
+AbC
+0 1 2 3 7
+4567
+abC24
+Abv24
+boolean
+else
+if
+int
+main
+void
+while
+Boolean
+Integer
+true
+false
+Digit
+( ) { } ; ,
+= + - * / <=
+> >= == != && || !
